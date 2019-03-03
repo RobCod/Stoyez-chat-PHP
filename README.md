@@ -31,8 +31,8 @@ This is a PHP Chat lightly based on LeChat created a while ago based in the PERL
 
 ### Installation Instructions:
 
-1. You'll need to have a MYSQL server installed with apache2, after you have a fresh install of MYSQL and have a username setup with a password, goto (yourwebsite)/(chatdir)/setup.php.
+    1. You'll need to have a MYSQL server installed with apache2, after you have a fresh install of MYSQL and have a username         setup with a password, goto (yourwebsite)/(chatdir)/setup.php.
 
-2. Once you're on the setup.php page you can put in your Database host url, the username and password for the database, and you can choose a database that you want the the chat files to be stored in, the setup.php will auto generate the database and all the tables needed for the chat to function.
+    2. Once you're on the setup.php page you can put in your Database host url, the username and password for the database, and you can choose a database that you want the the chat files to be stored in, the setup.php will auto generate the database and all the tables needed for the chat to function.
 
-3. Select a Admin username and password you'll want to use to administrate your chat with.
+    3. Select a Admin username and password you'll want to use to administrate your chat with.
