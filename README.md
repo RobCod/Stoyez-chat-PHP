@@ -5,7 +5,7 @@ If you find any bugs, please feel free to let me know and I will fix them in fut
 
 ### General Information:
 
-This is a PHP Chat lightly based on LeChat created a while ago based in the PERL programming language; I've created Stoyez-chat to be easily setup with little to no Admin involvment in editing files to get it to work. All the files that need to be changed to get it functioning are included in the setup.php page. I've also created this chat to make the scripting easily navigatable and readable so that anyone wanting to add in their own features to make the chat fit their needs easy and quick with little time needed to learn how I built it.
+    This is a PHP Chat lightly based on LeChat created a while ago based in the PERL programming language; I've created Stoyez- chat to be easily setup with little to no Admin involvment in editing files to get it to work. All the files that need to be changed to get it functioning are included in the setup.php page. I've also created this chat to make the scripting easily navigatable and readable so that anyone wanting to add in their own features to make the chat fit their needs easy and quick with little time needed to learn how I built it.
 
 ### Features Implemented Now:
 
