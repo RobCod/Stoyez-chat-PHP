@@ -1,7 +1,8 @@
 # Stoyez-chat-PHP
-A streamlined easy to setup and modify PHP chat for websites, including Tor websites. All this chat uses is PHP and HTML.
 
-If you find any bugs, please feel free to let me know and I will fix them in future versions; Have any ideas for what I should add? Feel free to let me know and I'll add them to my todo list.
+    A streamlined easy to setup and modify PHP chat for websites, including Tor websites. All this chat uses
+    is PHP and HTML. If you find any bugs, please feel free to let me know and I will fix them in future 
+    versions; Have any ideas for what I should add? Feel free to let me know and I'll add them to my todo list.
 
 ### General Information:
 
