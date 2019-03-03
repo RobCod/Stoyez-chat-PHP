@@ -3,10 +3,11 @@ A streamlined easy to setup and modify PHP chat for websites, including Tor webs
 
 If you find any bugs, please feel free to let me know and I will fix them in future versions; Have any ideas for what I should add? Feel free to let me know and I'll add them to my todo list.
 
-#General Information:
+### General Information:
 
 This is a PHP Chat lightly based on LeChat created a while ago based in the PERL programming language; I've created Stoyez-chat to be easily setup with little to no Admin involvment in editing files to get it to work. All the files that need to be changed to get it functioning are included in the setup.php page. I've also created this chat to make the scripting easily navigatable and readable so that anyone wanting to add in their own features to make the chat fit their needs easy and quick with little time needed to learn how I built it.
-#Features Implemented Now:
+
+### Features Implemented Now:
 
     Optimized for TOR
     No JavaScript needed
@@ -16,7 +17,7 @@ This is a PHP Chat lightly based on LeChat created a while ago based in the PERL
     Autologout when inactive for some time
     And more
 
-#features on their way soon.
+### features on their way soon.
     
     Captcha
     Multiple languages
@@ -28,7 +29,7 @@ This is a PHP Chat lightly based on LeChat created a while ago based in the PERL
     Clean selected messages
     Clean the whole room
 
-#Installation Instructions:
+### Installation Instructions:
 
 1. You'll need to have a MYSQL server installed with apache2, after you have a fresh install of MYSQL and have a username setup with a password, goto (yourwebsite)/(chatdir)/setup.php.
 
