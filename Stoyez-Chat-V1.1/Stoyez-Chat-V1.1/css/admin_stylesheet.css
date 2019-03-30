@@ -1,0 +1,43 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+body h2 {
+	padding-top: 20px;
+	color: white;
+	text-align: center;
+}
+
+p {
+	color: white;
+}
+
+button {
+	background-color: black;
+	color: white;
+}
+
+.register_guest #register {
+	background-color: black; 
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.options {
+	width: 400;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.register_member input {
+	background-color: black;
+	color: white;
+}
+
+.register_member button {
+	background-color: black;
+	color: white;
+}

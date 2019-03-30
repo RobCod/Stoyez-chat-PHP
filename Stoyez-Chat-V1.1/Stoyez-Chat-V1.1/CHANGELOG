@@ -1,0 +1,20 @@
+Version V1.1 - Mar. 04, 2019
+
+1. Switched all mysqli_query over to prepared statements.
+2. Added Reload Post Box, Reload Messages and Profile buttons.
+3. Fleshed out the Admin button a bit more.
+4. Added a length restriction of 16 characters for usernames.
+5. Fixed a bug where it echoed two "return to login" buttons and "error readout" when a guest user gets timed out for inactivity.
+6. Cleaned up the code a bit more, and added more comments to make it a bit easier to navigate.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Version V1.0 - Mar. 03, 2019
+1. Added in additional SQL injection and XSS prevention measures.
+2. Added in username and password character restrictions. (A-Z, a-z, 0-9, @, #, $, %, &, *) is allowed.
+3. Cleaned up code a bit so that mysqli connections weren't repeated several times when they were just needed once. (In future versions the connection will be callled through a separate file)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Version V0.8 - Feb. 26, 2019
+Initial release
