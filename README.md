@@ -21,6 +21,8 @@
     Admin Registration of Guests
     Public, member, moderator and admin only chats
     Autologout when inactive for some time
+    Clean selected messages for admins
+    Time format options for either 12 hour or 24 hour clocks
     And more
 
 ### features on their way soon.
