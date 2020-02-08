@@ -1,0 +1,141 @@
+.post_parent {
+	background: #848687 url(../images/post-pattern.jpg);
+	position: absolute;
+	left: 0;
+	top: 0;
+	min-height: 100px;
+	width: 100%;
+	
+	color: white;
+}
+
+.post_objects {
+	width: 641;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.post_parent input {
+	width: 300px;
+	background-color: black;
+	color: white;
+}
+
+.post_parent button {
+	background-color: black; 
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.post_parent select {
+	background-color: black; 
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.post_parent button:hover {
+    background-color: black;
+    color: grey;
+    transition: .5s;
+}
+
+.view {
+	background: #848687 url(../images/background.jpg);
+	left: 0;
+	top: 0;
+	position: absolute;
+	min-height: 830px;
+	width: 100%;
+}
+
+.view hr {
+	position: fixed;
+	top: 926;
+	width: 100%;
+}
+
+.view table {
+	color: white;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.view p {
+	color: white;
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+.controls_parent {
+	background: #848687 url(../images/post-pattern.jpg);
+	position: absolute;
+	left: 0;
+	top: 0;
+	min-height: 62px;
+	width: 100%;
+	
+	color: white;
+}
+
+.controls_objects form {
+	display: inline;
+}
+
+.controls_objects {
+	width: 448;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+.controls_objects #exit {
+	background-color: red; 
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.controls_objects #reload {
+	background-color: black; 
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.controls_objects #refresh {
+	background-color: black; 
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.controls_objects #exit:hover {
+    background-color: rgba(255,0,0,1);
+    color: grey;
+    transition: .5s;
+}
+
+.controls_objects #admin {
+	background-color: black; 
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.controls_objects #admin:hover {
+    background-color: black;
+    color: grey;
+    transition: .5s;
+}
+
+.version p {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.Members {
+	color:white;
+}
+
