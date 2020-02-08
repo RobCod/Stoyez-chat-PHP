@@ -34,7 +34,6 @@
     Image embedding
     Notes for admins and moderators
     Kick chatters
-    Clean selected messages
     Clean the whole room
 
 ### Installation Instructions:
