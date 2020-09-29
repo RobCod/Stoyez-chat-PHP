@@ -1,0 +1,211 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+button {
+	background-color: black;
+	color: white;
+}
+
+.options {
+	width: 500px;
+	text-align: center;
+	margin: 0 auto;
+}
+/* Title settings for options */
+.clean-messages p {
+	font-weight: bold;
+	margin-left: -390px;
+	margin-top: 25px;
+}
+
+.kick-chatter p {
+	font-weight: bold;
+	margin-left: -410px;
+	margin-top: 25px;
+}
+
+.chat-topic  p {
+	font-weight: bold;
+	margin-left: -425px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.new-member p {
+	font-weight: bold;
+	margin-left: -425px;
+	margin-top: 30px;
+}
+
+/* option placment */
+
+.whole-room {
+	margin-top: -45px;
+	margin-left: -150px;
+}
+
+.whole-room p {
+	display: inline;
+}
+
+.nickname {
+	margin-top: 10px;
+	margin-left: -100px;
+}
+
+.nickname p {
+	display: inline;
+}
+
+.selection {
+	margin-top: -50px;
+	margin-left: 130px;
+}
+
+.selection p {
+	display: inline;
+}
+
+.nickname-selector {
+	margin-top: 12px;
+	margin-left: 150px;
+}
+
+.nickname-selector p {
+	display: inline;
+}
+
+.kick-message {
+	margin-top: -34px;
+	margin-left: 53px;
+}
+
+.kick-message p {
+	display: inline;
+}
+
+.kick-timeout {
+	margin-top: 20px;
+	margin-left: 25px;
+}
+
+.kick-timeout p {
+	display: inline;
+}
+
+.delete-msgs {
+	margin-top: -30px;
+	margin-left: -350px;
+}
+
+.delete-msgs p {
+	display: inline;
+}
+
+.player-list {
+	margin-top: 10px;
+	margin-left: -345px;
+}
+
+.player-list p {
+	display: inline;
+}
+
+.topic {
+	margin-top: -35px;
+	margin-left: 185px;
+}
+
+.chat-access {
+	margin-top: -35px;
+	margin-left: 165px;
+}
+
+.member-list {
+	margin-top: -40px;
+	margin-left: -80px;
+}
+
+.member-access {
+	margin-top: -20px;
+	margin-left: 167px;
+} 
+
+.reset-password {
+	margin-top: -20px;
+	margin-left: 167px;
+} 
+
+.register-list {
+	margin-top: -40px;
+	margin-left: 250px;
+} 
+
+.new-member-username {
+	margin-top: -50px;
+	margin-left: 100px;
+}
+
+.new-member-username p {
+	display: inline;
+}
+
+.new-member-pass {
+	margin-top: 20px;
+	margin-left: 100px;
+}
+
+.new-member-pass p {
+	display: inline;
+}
+
+/* button placment and color */
+
+#clean-messages {
+	background-color: #990000;
+}
+
+.clean-chat-submit {
+	margin-top: -20px;
+	margin-left: 400px;
+}
+
+.clean-chat-submit p {
+	display: inline;
+}
+
+#kick-chatter {
+	background-color: black;
+}
+
+#kick-msg {
+	width: 200px;
+}
+
+
+.kick-chatter-submit {
+	margin-top: -55px;
+	margin-left: 400px;
+	margin-bottom: 50px;
+}
+
+.kick-chatter-submit p {
+	display: inline;
+}
+
+#topic-button {
+	background-color: black;
+}
+
+.topic-submit {
+	margin-top: -20px;
+	margin-left: 400px;
+	margin-bottom: 20px;
+}
+
+.topic-submit p {
+	display: inline;
+}
+
