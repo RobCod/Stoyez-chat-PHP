@@ -22,6 +22,7 @@
     Public, member, waiting room, mod accept required (still in progress), moderator and admin only chats
     Clean selected messages for admins
     Time format options for either 12 hour or 24 hour clocks
+    Select time zone for the chat
 	Kick chatters
 	Clean the whole room
     And more
